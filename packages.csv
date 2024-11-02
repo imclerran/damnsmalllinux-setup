@@ -21,6 +21,7 @@ http://ftp.us.debian.org/debian/pool/main/d/device-tree-compiler,libfdt1_1.6.1-4
 http://ftp.us.debian.org/debian/pool/main/c/capstone,libcapstone4_4.0.2-5_i386.deb
 http://ftp.us.debian.org/debian/pool/main/liba/libaio,libaio1_0.3.113-4_i386.deb
 http://ftp.us.debian.org/debian/pool/main/v/virglrenderer,libvirglrenderer1_0.10.4-1_i386.deb
+http://ftp.us.debian.org/debian/pool/main/v/vte2.91,libvte-2.91-common_0.70.6-2~deb12u1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/v/vte2.91,libvte-2.91-0_0.70.6-2~deb12u1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/i/ipxe,ipxe-qemu_1.0.0+git-20190125.36a4c85-5.1_all.deb
 http://ftp.us.debian.org/debian/pool/main/s/seabios,seabios_1.16.2-1_all.deb

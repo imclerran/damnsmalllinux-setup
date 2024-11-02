@@ -5,6 +5,7 @@ http://ftp.us.debian.org/debian/pool/main/l/linux86,bin86_0.16.17-3.4_i386.deb
 http://ftp.us.debian.org/debian/pool/main/l/linux86,bcc_0.16.17-3.4_i386.deb
 http://ftp.us.debian.org/debian/pool/main/libc/libcacard,libcacard0_2.8.0-3_i386.deb
 http://ftp.us.debian.org/debian/pool/main/libe/libexecs,libexecs0_1.3-2_i386.deb
+http://ftp.us.debian.org/debian/pool/main/e/elfutils,libdw1_0.188-2.1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/g/gstreamer1.0,libgstreamer1.0-0_1.22.0-2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/o/orc,liborc-0.4-0_0.4.33-2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/s/spice,libspice-server1_0.15.1-1_i386.deb

@@ -25,3 +25,4 @@ http://ftp.us.debian.org/debian/pool/main/s/seabios,seabios_1.16.2-1_all.deb
 http://ftp.us.debian.org/debian/pool/main/q/qemu,qemu-system-data_7.2+dfsg-7+deb12u7_all.deb
 http://ftp.us.debian.org/debian/pool/main/q/qemu,qemu-system-common_7.2+dfsg-7+deb12u7_i386.deb
 http://ftp.us.debian.org/debian/pool/main/q/qemu,qemu-system-x86_7.2+dfsg-7+deb12u7_i386.deb
+http://ftp.us.debian.org/debian/pool/main/q/qemu,qemu-system-gui_7.2+dfsg-7+deb12u7_i386.deb

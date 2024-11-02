@@ -44,7 +44,7 @@ install_package() {
 # Loop through the CSV file and read URL and deb pairs
 while IFS=',' read -r url deb; do
   # Skip empty lines
-  if [ -n "$url" ] && [ -n "$deb"; then
+  if [ -n "$url" ] && [ -n "$deb" ]; then
     install_package "$url" "$deb"
   fi
 done < <(grep -v '^\s*$' "packages.csv")

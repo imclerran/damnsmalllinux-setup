@@ -3,10 +3,15 @@ http://security.debian.org/debian-security/pool/updates/main/g/git,git-man_2.39.
 http://ftp.us.debian.org/debian/pool/main/libe/liberror-perl,liberror-perl_0.17029-2_all.deb
 http://ftp.us.debian.org/debian/pool/main/l/linux86,bin86_0.16.17-3.4_i386.deb
 http://ftp.us.debian.org/debian/pool/main/l/linux86,bcc_0.16.17-3.4_i386.deb
+http://ftp.us.debian.org/debian/pool/main/libc/libcacard,libcacard0_2.8.0-3_i386.deb
+http://ftp.us.debian.org/debian/pool/main/libe/libexecs,libexecs0_1.3-2_i386.deb
+http://ftp.us.debian.org/debian/pool/main/s/spice,libspice-server1_0.15.1-1_i386.deb
+http://ftp.us.debian.org/debian/pool/main/u/usbredir,libusbredirparser1_0.13.0-2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/v/vdeplug4,libvdeplug2_4.0.1-4_i386.deb
 http://ftp.us.debian.org/debian/pool/main/libs/libslirp,libslirp0_4.7.0-1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/r/rdma-core,libibverbs1_44.0-2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/r/rdma-core,librdmacm1_44.0-2_i386.deb
+http://ftp.us.debian.org/debian/pool/main/b/brltty,libbrlapi0.8_6.5-7+deb12u1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/d/device-tree-compiler,libfdt1_1.6.1-4+b1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/c/capstone,libcapstone4_4.0.2-5_i386.deb
 http://ftp.us.debian.org/debian/pool/main/liba/libaio,libaio1_0.3.113-4_i386.deb

@@ -7,6 +7,7 @@ http://ftp.us.debian.org/debian/pool/main/libc/libcacard,libcacard0_2.8.0-3_i386
 http://ftp.us.debian.org/debian/pool/main/libe/libexecs,libexecs0_1.3-2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/e/elfutils,libdw1_0.188-2.1_i386.deb
 http://ftp.us.debian.org/debian/pool/main/g/gstreamer1.0,libgstreamer1.0-0_1.22.0-2_i386.deb
+http://ftp.us.debian.org/debian/pool/main/i/iso-codes,iso-codes_4.15.0-1_all.deb
 http://ftp.us.debian.org/debian/pool/main/g/gst-plugins-base1.0,libgstreamer-plugins-base1.0-0_1.22.0-3+deb12u2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/o/orc,liborc-0.4-0_0.4.33-2_i386.deb
 http://ftp.us.debian.org/debian/pool/main/s/spice,libspice-server1_0.15.1-1_i386.deb
